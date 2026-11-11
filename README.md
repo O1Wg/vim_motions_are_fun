@@ -12,7 +12,7 @@ I made this repo to encourage myself and help my friends learn vim motions.
 ## What's inside
 
 - [`cheatsheet.md`](cheatsheet.md): a quick reference for the commands, for looking things up
-- [`practice/Practice_Vim.md`](practice/Practice_Vim.md): exercises you do inside vim
+- [`practice/Practice_vim.md`](practice/Practice_vim.md): exercises you do inside vim
 - [`practice/gg.py`](practice/gg.py): a Python file used in the buffers and auto-complete exercise
 
 ## How to use it

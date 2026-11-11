@@ -1,3 +1,14 @@
+# Vim Is Actually Fun
+
+```
+__     _____ __  __
+\ \   / /_ _|  \/  |
+ \ \ / / | || |\/| |
+  \ V /  | || |  | |
+   \_/  |___|_|  |_|
+```
+
+I made this repo to encourage myself and help my friends learn vim motions.
 ## What's inside
 
 - [`cheatsheet.md`](cheatsheet.md): a quick reference for the commands, for looking things up
